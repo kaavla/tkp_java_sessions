@@ -1,0 +1,41 @@
+Day 1: 4/5/2019 
+----------------
+ - Installed the Environment for working with TKP. 
+	- Download or clone the zip file from: https://github.com/TeachingKidsProgramming/TeachingKidsProgramming.Java
+	- Create a folder called "C:\TKPSource"
+	- Extract the downloaded zip file into C:\TKPSource
+    - cd "C:\TKPSource\TeachingKidsProgramming.Java-master\TeachingKidsProgramming.Java-master"
+    - Double click on "Ninite JDK x64 8 Installer". Wait to finish installation.
+    - Double click on "Ninite Eclipse Installer". Wait to finish installation.
+	- Doublick click on "TKP_Launcher" to launch the environment.
+    - It should open a java program called "SimpleSquare.java". On line 7 or 8, type "Tortoise.show();" and run the program "Green play button on top left".
+      If you see a tortoise, you are all set.	
+	
+Day 2: 4/19/2019 
+----------------
+ - Launch your TKP environment
+    - cd "C:\TKPSource\TeachingKidsProgramming.Java-master\TeachingKidsProgramming.Java-master"
+    - Doublick click on "TKP_Launcher" to launch the environment.
+	- It should open a java program called "SimpleSquare.java"
+	
+ - What did we learn?
+    - What are comments in java. 
+	- How to follow the TKP instructional comments. 
+	- Convert a comment to a line of code. 
+	- Whats a class (example Tortoise). 
+	- How to look at all the available methods for Tortoise class (Use "CNTL-Space" multiple times to see the methods"
+	- How to look at the java documentation (Window -> Show View -> JavaDoc). Also look at the examples for the methods
+	- How to execute the program after adding a line of code
+	- For loops in Java (Search for "java for loop example in google"
+	- Using int Variables 
+- Finsihed 
+    - SimpleSquare.java
+    - SimpleSquareQuiz.java
+
+- Next Time (Please try yourself before coming to class):
+    - Spiral.java
+    - MakeALogo.java
+    - DoubleLoop.java
+	
+
+http://www.lasv.org/press/publications/other/Engineering%20final%20notebook%20compliation.pdf - For MeetingMinutes
