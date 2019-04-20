@@ -28,14 +28,16 @@ Day 2: 4/19/2019
 	- How to execute the program after adding a line of code
 	- For loops in Java (Search for "java for loop example in google"
 	- Using int Variables 
-- Finsihed 
+ - Finsihed 
     - SimpleSquare.java
     - SimpleSquareQuiz.java
 
-- Next Time (Please try yourself before coming to class):
+ - Next Time (Please try yourself before coming to class):
     - Spiral.java
     - MakeALogo.java
     - DoubleLoop.java
 	
+
+ 
 
 http://www.lasv.org/press/publications/other/Engineering%20final%20notebook%20compliation.pdf - For MeetingMinutes

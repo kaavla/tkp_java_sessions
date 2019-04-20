@@ -1,0 +1,15 @@
+
+To Do:
+ - Printing out values to console for debugging
+   - System.out.println();
+ - Working With int Variables
+   - Declare them
+   - Use them
+   - Arithmetic opertations on int variables
+     - +, -, *, /
+   - Example Quiz: Display a arithmetic table for 2, 5, 7
+   - Example Quiz: Draw a pyramid
+ - Working with Arrays
+ - Logical Conditions
+ - Decision using if-then-else
+ - 
