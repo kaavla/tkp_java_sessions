@@ -38,6 +38,18 @@ Day 2: 4/19/2019
     - DoubleLoop.java
 	
 
+Day 3: 4/26/2019 
+----------------
+ - What did we learn?
+    - Practice the use of int variables and for loops
+    - Finished the following three examples
+      - Spiral.java
+      - MakeALogo.java
+      - DoubleLoop.java
+ - Quiz for home (will be discussed next time)
+    - Finish the quiz DeepDive01ForLoops.java
+	
+    
  
 
 http://www.lasv.org/press/publications/other/Engineering%20final%20notebook%20compliation.pdf - For MeetingMinutes
