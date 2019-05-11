@@ -49,6 +49,14 @@ Day 3: 4/26/2019
  - Quiz for home (will be discussed next time)
     - Finish the quiz DeepDive01ForLoops.java
 	
+Day 4: 5/10/2019 
+----------------
+ - Finished the quiz DeepDive01ForLoops.java
+ - What did we learn?
+    - Introduced the concept of creating and calling simple methods 
+    - Finished the following three examples
+      - Houses.java
+      - HousesQuiz.java
     
  
 
